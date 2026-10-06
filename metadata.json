@@ -1,0 +1,12 @@
+{
+  "name": "SafetyBuddy - AI-Powered Privacy-Preserving Personal Safety",
+  "description": "Intelligent personal safety platform that proactively detects unsafe situations while protecting location privacy.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
